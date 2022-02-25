@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/SMART-GENIE-DAPP/static/css/main.00cf716c.chunk.css",
+    "main.js": "/SMART-GENIE-DAPP/static/js/main.83ef109e.chunk.js",
+    "main.js.map": "/SMART-GENIE-DAPP/static/js/main.83ef109e.chunk.js.map",
+    "runtime-main.js": "/SMART-GENIE-DAPP/static/js/runtime-main.77d7c6dd.js",
+    "runtime-main.js.map": "/SMART-GENIE-DAPP/static/js/runtime-main.77d7c6dd.js.map",
+    "static/js/2.d7d26bf8.chunk.js": "/SMART-GENIE-DAPP/static/js/2.d7d26bf8.chunk.js",
+    "static/js/2.d7d26bf8.chunk.js.map": "/SMART-GENIE-DAPP/static/js/2.d7d26bf8.chunk.js.map",
+    "static/js/3.b7a8796f.chunk.js": "/SMART-GENIE-DAPP/static/js/3.b7a8796f.chunk.js",
+    "static/js/3.b7a8796f.chunk.js.map": "/SMART-GENIE-DAPP/static/js/3.b7a8796f.chunk.js.map",
+    "index.html": "/SMART-GENIE-DAPP/index.html",
+    "static/css/main.00cf716c.chunk.css.map": "/SMART-GENIE-DAPP/static/css/main.00cf716c.chunk.css.map",
+    "static/js/2.d7d26bf8.chunk.js.LICENSE.txt": "/SMART-GENIE-DAPP/static/js/2.d7d26bf8.chunk.js.LICENSE.txt",
+    "static/media/logimg.84960df3.jpg": "/SMART-GENIE-DAPP/static/media/logimg.84960df3.jpg",
+    "static/media/logm.9c996e3c.jpg": "/SMART-GENIE-DAPP/static/media/logm.9c996e3c.jpg",
+    "static/media/logo.fba3736c.png": "/SMART-GENIE-DAPP/static/media/logo.fba3736c.png",
+    "static/media/message.bc71e445.jpg": "/SMART-GENIE-DAPP/static/media/message.bc71e445.jpg",
+    "static/media/tronlink.e60d7b91.png": "/SMART-GENIE-DAPP/static/media/tronlink.e60d7b91.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77d7c6dd.js",
+    "static/js/2.d7d26bf8.chunk.js",
+    "static/css/main.00cf716c.chunk.css",
+    "static/js/main.83ef109e.chunk.js"
+  ]
+}
